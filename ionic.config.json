@@ -1,6 +1,8 @@
 {
   "name": "tipster",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "0c01224a"
 }
